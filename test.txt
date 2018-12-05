@@ -1,5 +1,2 @@
 111111
-这是master上的内容
-=======
-这是添加到mergedemo分支上的内容
->>>>>>> mergedemo
+这是master上的内容02
